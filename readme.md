@@ -1,5 +1,5 @@
 # 🔥 JudgeMyVibe: The Brutal AI Critic
-![Uploading thumbnail.png…]()
+<img width="1024" height="1536" alt="thumbnail" src="https://github.com/user-attachments/assets/7f25bfea-9b41-4ed6-853a-819db5635400" />
 
 > **Built for Hacklahoma 2026**
 >
