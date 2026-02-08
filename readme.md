@@ -34,12 +34,6 @@ Powered by **Google's Gemini 2.5 Flash** model for sub-second visual analysis.
     * 💀 **Gen Z:** Uses slang to destroy your confidence.
 * **Instant Feedback:** Built on Streamlit for real-time interaction.
 
-## 🚀 Demo
-*(Insert a link to your demo video or deployed app here once available)*
-
-![Demo Screenshot](path/to/your/screenshot.png)
-*(Note: Upload the screenshot of the burger roast to your repo and link it here)*
-
 ## 🛠️ Tech Stack
 * **Frontend:** [Streamlit](https://streamlit.io/)
 * **AI Model:** [Google Gemini 2.5 Flash](https://ai.google.dev/) (via `google-generativeai` SDK)
