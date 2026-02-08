@@ -1,4 +1,5 @@
 # 🔥 JudgeMyVibe: The Brutal AI Critic
+![Uploading thumbnail.png…]()
 
 > **Built for Hacklahoma 2026**
 >
